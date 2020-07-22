@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="add_fragment">替换</string>
+    <string name="go_next">进入下个页面</string>
+</resources>
